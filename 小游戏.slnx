@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="小游戏.vcxproj" Id="df9d9c41-514e-4e9e-b000-f76a8092cfef" />
+</Solution>
